@@ -21,11 +21,11 @@ Ben's Social is a fully-featured social media web application, built with the ME
 ## Installation and usage
 1) Clone this repository
 ```
-git clone https://github.com/SoftCysec/Social-Media-Web-Application.git
+git clone https://github.com/cheruiyottbenard/Social-Media-Web-App.git
 ```
 2) Install dependencies
 ```
-cd Social-Media-Web-Application
+cd Social-Media-Web-App
 npm install
 cd client
 npm install
@@ -47,7 +47,7 @@ npm run server
 ```
 6) Start a new terminal and run react's development server
 ```
-cd Social-Media-Web-Application
+cd Social-Media-Web-App
 cd client
 npm start
 ```
